@@ -8,4 +8,3 @@
 - 💬 Ask me about SIEM Threat Detection 
 - 📫 How to reach me: pranab@vt.edu
 - ⚡ Fun fact: I like tinkering with motorcycles and cars
--->
